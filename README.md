@@ -1,10 +1,16 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* Hey! Welcome to this repository
+* Its just a test
+* Feel free to lmk if theres any issues
+
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* This does nothing
+* And even more nothing
+* ...and more...
+* and yes... even more...
 
 ## Getting started
 
